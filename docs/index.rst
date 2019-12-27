@@ -2,13 +2,13 @@
 * rrr
 
 
-===== ======= =====
+===== ========= =====
 ttt   VID/PID  hh
-===== ======= =====
-dddd. ffff.   fff
-eeee. dddd.   ddd
-fff.  ggg.    hhh
-===== ======= =====
+===== ========= =====
+dddd. 0000/0000 xx
+eeee. dddd.     ddd
+fff.  ggg.      hhh
+===== ========= =====
 
 ggg
 
