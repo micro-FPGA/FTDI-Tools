@@ -3,11 +3,11 @@
 ========= ======================================
 VID/PID   
 ========= ======================================
-0000/0000 
+0000/0000v 
 0000/0000 
 ========= ======================================
 
-List of known devices using User EEPROM
+List of known products using User EEPROM
 
 * all Digilent JTAG adapters
 
