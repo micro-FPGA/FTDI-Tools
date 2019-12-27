@@ -11,7 +11,7 @@ List of known products using User EEPROM
 
 * all Digilent JTAG adapters
 
-List of JTAG software that can use empty EEPROM
+List of JTAG software that can be used with empty EEPROM
 
 * Lattice Diamond Programmer
 * Gowin Programmer
