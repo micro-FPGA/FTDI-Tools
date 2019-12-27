@@ -13,7 +13,9 @@ List of known devices using User EEPROM
 
 List of JTAG software that can use empty EEPROM
 
-* Lattice Diamond Programmaer
+* Lattice Diamond Programmer
+* Gowin Programmer
 * ToolZ
+* OpenOCD
 
 
