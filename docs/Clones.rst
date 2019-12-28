@@ -1,6 +1,11 @@
 FTDI-Gate 1
+===========
 
 https://hackaday.com/2014/10/22/watch-that-windows-update-ftdi-drivers-are-killing-fake-chips/
+https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
+https://www.reddit.com/r/arduino/comments/2k0i7x/watch_that_windows_update_ftdi_drivers_are/clgviyl/
+
+
 
 
 
