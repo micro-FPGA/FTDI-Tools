@@ -18,7 +18,7 @@ List of JTAG software that can be used with empty EEPROM
 * ToolZ
 * OpenOCD
 
-Tools that can use FTDI dongles
+Tools that work with FTDI chips
 ===============================
 
 Lattice Programmer
