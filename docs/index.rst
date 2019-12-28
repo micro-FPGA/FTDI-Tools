@@ -7,19 +7,26 @@ VID/PID
 0000/0000 
 ========= ======================================
 
-List of known products using User EEPROM
+
+
+Tools that work with FTDI chips
+===============================
+
+List of known hardware products using User EEPROM
 
 * all Digilent JTAG adapters
 
-List of JTAG software that can be used with empty EEPROM
+List of software that can be used with empty EEPROM
 
 * Lattice Diamond Programmer
 * Gowin Programmer
 * ToolZ
 * OpenOCD
 
-Tools that work with FTDI chips
-===============================
+List of software that that use custom VID/PID
+
+* Microsemi (now Microchip) programmer/debugger
+
 
 Lattice Programmer
 ------------------
