@@ -25,4 +25,4 @@ Lattice has made a smart decision and allows the use of FT chips with blank EEPR
 
 Arrow USB Programmer
 ====================
-This is special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts.
+This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID are used, programmer is detected by the Product string, user EEPROM is not used.
