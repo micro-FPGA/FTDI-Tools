@@ -18,4 +18,8 @@ List of JTAG software that can be used with empty EEPROM
 * ToolZ
 * OpenOCD
 
+Lattice Programmer
+==================
+Lattice has made a smart decision and allows the use of FT chips with blank EEPROM, JTAG is supported on any channel, not limited to channel A.
+
 
