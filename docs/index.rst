@@ -20,6 +20,9 @@ List of JTAG software that can be used with empty EEPROM
 
 Lattice Programmer
 ==================
-Lattice has made a smart decision and allows the use of FT chips with blank EEPROM, JTAG is supported on any channel, not limited to channel A.
+Lattice has made a smart decision and allows the use of FT chips with blank EEPROM, JTAG is supported on any channel, not limited to channel A. Supported modes are JTAG, I2C and SPI. If duplicating the schematic look at Lattice evaluation boards for detailed info.
 
 
+Arrow USB Programmer
+====================
+This is special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts.
