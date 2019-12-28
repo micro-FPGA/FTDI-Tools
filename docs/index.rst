@@ -26,7 +26,7 @@ List of software that can be used with empty EEPROM
 
 List of software that that use custom VID/PID
 
-* Microsemi (now Microchip) programmer/debugger
+* Microsemi (now Microchip) FlashPro 5
 
 
 Lattice Programmer
@@ -38,8 +38,11 @@ Arrow USB Programmer
 --------------------
 This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID are used, programmer is detected by the Product string, user EEPROM is not used.
 
-Microsemi programmer/debugger
------------------------------
+Microsemi FlashPro 5
+--------------------
+With generation 5 Microsemi (now Microchip, previous Actel) changed from Cypress USB SoC to FTDI based solution. Flashpro 5 is a FT4232H based dongle or on-board solution with JTAG on channel A.
+
+
 
 
 
