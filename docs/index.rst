@@ -38,6 +38,8 @@ Arrow USB Programmer
 --------------------
 This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID is used, programmer is detected by the Product string, user EEPROM is not used. In case the EEPROM is erased or rewritten by accidient it is sufficient to store the product string using FT_PROG.
 
+Note for Linux users - due to Linux driver restriction it is not possible to use JTAG and UART on the same time with FT2232. On windows Channel B can be used as regular COM port.
+
 Microsemi FlashPro 5
 --------------------
 With generation 5 Microsemi (now Microchip, previous Actel) changed from Cypress USB SoC to FTDI based solution. Flashpro 5 is a FT4232H based dongle or on-board solution with JTAG on channel A, but FT2232H can also be used, it is recognized as well by Microchip tools.
