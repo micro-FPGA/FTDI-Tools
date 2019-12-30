@@ -36,7 +36,7 @@ Lattice has made a smart decision and allows the use of FTDI chips with blank EE
 
 Arrow USB Programmer
 --------------------
-This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID is used, programmer is detected by the Product string, user EEPROM is not used. In case the EEPROM is erased or rewritten by accidient it is sufficient to store the product string using FT_PROG.
+This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID is used, programmer is detected by the Product string, user EEPROM is not used. In case the EEPROM is erased or rewritten by accidient it is sufficient to store the product string using FT_PROG, set "Product Description" to "Arrow USB Blaster".
 
 Note for Linux users - due to Linux driver restriction it is not possible to use JTAG and UART on the same time with FT2232. On windows Channel B can be used as regular COM port.
 
