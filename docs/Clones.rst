@@ -11,7 +11,7 @@ Arduino Clone
 =============
 https://github.com/vidor-libraries/USBBlaster
 
-That is arduino code emulation FT245 - this is violation of FTDI licenses too
+That is arduino code emulating FT245 (also emulation USB Blaster hardware) - this is violation of FTDI licenses too
 
 
 
