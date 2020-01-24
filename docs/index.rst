@@ -38,7 +38,7 @@ Arrow USB Programmer
 --------------------
 This is a special DLL that makes the FT2232 chip to work with Intel FPGA's. Available both for Windows and Linux hosts. Only JTAG mode supported on fixed channel A. Default VID/PID is used, programmer is detected by the Product string, user EEPROM is not used. In case the EEPROM is erased or rewritten by accidient it is sufficient to store the product string using FT_PROG, set "Vendor Desc" to "Arrow", "Product Desc" to "Arrow USB Blaster"; port A to "245 FIFO", D2XX; port B to "RS232 UART", "Virtual COM Port", VID/PID must be "FTDI Default", serial number enabled, prefix "AR".
 
-Note: for Linux users - due to Linux driver restriction it is not possible to use JTAG and UART on the same time with FT2232. On windows Channel B can be used as regular COM port concurrent with JTAG operations.
+Note: for Linux users - due to Linux driver restriction it is not possible to use JTAG and UART at the same time with FT2232. On windows Channel B can be used as regular COM port concurrent with JTAG operations.
 
 Note: Signal Hound when connected disables arrow programmer to be recognized by Quartus. There maybe other similar cases.
 
