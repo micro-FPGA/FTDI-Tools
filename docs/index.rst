@@ -46,7 +46,7 @@ Microsemi FlashPro 5
 --------------------
 With generation 5 Microsemi (now Microchip, previous Actel) changed from Cypress USB SoC to FTDI based solution. Flashpro 5 is a FT4232H based dongle or on-board solution with JTAG on channel A, but FT2232H can also be used, it is recognized as well by Microchip tools.
 
-For debugging Microchip bundles their toos with customized OpenOCD. This raises some concerns about legal status as OpenOCD prevents the use of D2XX drivers (GPL license restriction).
+For debugging Microchip bundles their tools with customized OpenOCD pre-compiled files, this raises some concerns about legal status as OpenOCD prevents the use of D2XX drivers (GPL license restriction).
 
 
 
