@@ -40,7 +40,7 @@ Note: for Linux users - due to Linux driver restriction it is not possible to us
 
 Note: Signal Hound when connected disables arrow programmer to be recognized by Quartus. There maybe other similar cases.
 
-
+More info: https://github.com/ArrowElectronics/AnalogMAX/wiki/Arrow-USB-Programmer
 
 Microsemi FlashPro 5
 --------------------
